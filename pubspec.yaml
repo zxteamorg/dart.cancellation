@@ -1,8 +1,8 @@
 name: cancellation
 description: A starting point for Dart libraries or applications.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: Max Anurin <maxim.anurin@zxteam.org>
+version: 0.0.0
+author: "ZXTeam.ORG <pub@zxteam.org>"
+homepage: https://zxteam.org
 
 environment:
   sdk: '>=2.5.0 <3.0.0'
